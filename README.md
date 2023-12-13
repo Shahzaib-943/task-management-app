@@ -13,7 +13,7 @@ The Task Manager project is a web application built with Laravel, designed to ma
 
 
 ## Features
----
+
 
 - Task Listing: Display a list of tasks with details such as title, description, priority, due date, and status.
 - Task Creation: Users can add new tasks to the system, specifying details like title, description, priority, and due date.
