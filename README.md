@@ -5,10 +5,9 @@
   </a>
 </p>
 
-___
+
 
 ## Overview
----
 
 The Task Manager project is a web application built with Laravel, designed to manage tasks. It allows users to create, edit, delete tasks, mark tasks as done, and prioritize tasks.
 
